@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "mode": "runtime-only",
-  "sourceCommit": "d20dc22c19a9101647a8198f46dc4037277da7cc",
+  "sourceCommit": "75abb46eea1786fb494d942ae4341191e524e975",
   "aggregateRelease": {
     "repository": "flyfish-dev/file-viewer",
-    "tag": "v3.2.0",
-    "commit": "8cf8e2795300ada3bb27a090c786bdf2d0211ae4"
+    "tag": "v3.2.1",
+    "commit": "d466af1af51babb6d37bbf8db715c5497a88a2a1"
   },
   "package": {
     "packageName": "@file-viewer/vue2.6-full",
-    "version": "3.2.0",
-    "tarball": "file-viewer-vue2.6-full-3.2.0.tgz",
-    "tarballSize": 5447,
-    "sha256": "54b8a61ef3d03021daead67060f616a7f287a1ab3b8604eed5f1c7e9f5ea1256",
+    "version": "3.2.1",
+    "tarball": "file-viewer-vue2.6-full-3.2.1.tgz",
+    "tarballSize": 5451,
+    "sha256": "f6f6e695d0315740499a7644eaf61d4a174807c8f5bb364bdf0a9d2d23257e7b",
     "fileCount": 9,
-    "integrity": "sha512-EJ7Kdf3mkDVwT98TiHwZA86dQ+ASHN8XVwpdy2sQibhMT/glM+MhFZ7FprAQDp6lL0BYfXbK2FV7wXmOpZB/qw==",
+    "integrity": "sha512-fbGOFLLMT9zEfSoY06NEeyCfSF3saHVeuAYQQsIi3pHra7qv/1E9swxuKG2ZVeD7tCWoVFnAibUl7D0HHQ1y3A==",
     "license": "Apache-2.0",
     "releaseArtifact": {
       "includeTarball": true
